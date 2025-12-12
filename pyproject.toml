@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "imbalanced-clustering"
+name = "balanced-clustering"
 version = "0.1.0"
 description = "Clustering metrics for imbalanced datasets"
 license = "GPL-3.0"
