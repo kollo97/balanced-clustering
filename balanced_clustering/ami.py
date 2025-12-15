@@ -1,12 +1,12 @@
 import numpy as np
 import scipy.sparse as sp
+from sklearn.metrics.cluster import expected_mutual_information
 
 from .utils import (
     check_clusterings,
     contingency_matrix,
     entropy,
     mutual_info_score,
-    expected_mutual_information,
     generalized_average,
 )
 

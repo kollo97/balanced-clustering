@@ -5,3 +5,5 @@ testing_notebooks
 outs
 slurm
 .vscode
+.gitignore
+guix/
